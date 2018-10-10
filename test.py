@@ -16,8 +16,7 @@ class newClass:
 
 
 a = newClass
-print(a.method(a))
-
+print(a.method(a)
 
 
 
