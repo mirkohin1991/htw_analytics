@@ -19,8 +19,10 @@ a = newClass
 print(a.method(a))
 
 
+
+
 ########
-# Working with the JSON module
+# Working with the JSON module.
 ########
 object = """{ "Name" : "Mirko", "Hobbies": ["Sport", "Lesen"], "Alter": 10 }"""
 encoded_obj = json.dumps(object)
