@@ -5,7 +5,7 @@ print(a)
 if a == 3:
     print(datetime.datetime.now())
 
-#LOCAL CODING NEW
+# LOCAL CODING brand new
 
 #########
 # Here we have so class coding
