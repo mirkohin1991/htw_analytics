@@ -17,11 +17,8 @@ class newClass:
     def method(self):
         return 'Test'
 
-
 a = newClass
-print(a.method(a)
-
-
+print(a.method(a))
 
 ########
 # Working with the JSON module.
@@ -35,13 +32,3 @@ decoded_obj = json.loads(encoded_obj)
 print("Decoded Object", decoded_obj)
 loaded_obj = json.loads(object)
 print("Loaded Object", loaded_obj)
-
-
-
-
-
-
-
-
-
-
