@@ -17,6 +17,7 @@ class newClass:
     def method(self):
         return 'Test'
 
+
 a = newClass
 print(a.method(a))
 
